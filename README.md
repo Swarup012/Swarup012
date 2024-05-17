@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:-
 Hello, I'm passionate about backend and frontend<br><br>📚 Studied [Bacheler Of Computer Application] in Makaut University<be><br>🤌 I'm  interested in app development, Data science, machine learning, and Artificial Intelligence<br>
 
 
